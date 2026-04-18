@@ -32,7 +32,7 @@ This dashboard was designed to track and analyze sales performance across multip
 
 ## Screenshots
 
-> *(Add screenshots of the dashboard here)*
+![Dashboard](oris-powerbi-dashboard.png)
 
 ## How to open
 
